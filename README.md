@@ -53,7 +53,7 @@ The most significant challenge that I have throughout this prework was adding th
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-I realized that web development is an interesting thing while I am doing this prework. At the same time, I want to know a lot of things about web development. I have heard from some people that web development is really hard and it take a lot of people’s work to complete the project. I was wondering if it is true and if it is true how long does it take time to complete and how much do people need? In addition, a lot of websites generator like wix.com are popular nowadays. I am wondering what is the difference between a website that I wrote and a website created by a web generator?
+I realized that web development is an interesting thing while I am doing this prework. At the same time, I want to know a lot of things about web development. I have heard from some people that web development is really hard and web development project takes a lot of people’s work to complete it. I was wondering if it is true and if it is true how long does it take time to complete and how much do people need? In addition, a lot of websites generator like wix.com are popular nowadays. I am wondering what is the difference between a website that I wrote and a website created by a web generator?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
